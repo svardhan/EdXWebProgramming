@@ -1,0 +1,42 @@
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+p {
+  color: red;
+}
+
+
+
+td,th {
+  border: 1px solid black;
+  color: brown;
+  padding: 20px;
+  text-align: center;
+}
+
+#name {
+  color: red;
+}
+
+th {
+  background-color: grey;
+  color: white;
+}
+
+div {
+  background-color: teal;
+  margin: 30px;
+  padding: 20px;
+}
+
+.desig {
+  color: grey;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
